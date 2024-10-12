@@ -5,7 +5,7 @@ This project implements a simulation model to analyze tire degradation and racin
 🚀 Overview
 Tire management is crucial in Formula 1, as it directly impacts performance and race outcomes. This project leverages simulation techniques to model tire degradation, allowing teams to strategize more effectively during races.
 
- Key Features
+🧠 Key Features
 
 	•	Tire Degradation Model: Simulates tire wear based on compound type, lap conditions, and fuel load.
 	•	Race Dynamics: Models the performance of multiple cars racing under varying conditions, including track temperature.
